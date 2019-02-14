@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Student Web
+
+  Created by Joonwoo Kim on 2016. 5. 24..
+  Copyright © 2016년 김준우. All rights reserved.
+*/
+NO_Access="You are not allowed to search or access this website. Focus on your work.";
+
+COPIED="The website URL has been copied to the clipboard.";

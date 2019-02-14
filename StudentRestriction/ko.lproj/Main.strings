@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "Copy URL"; ObjectID = "3nS-21-TGd"; */
+"3nS-21-TGd.normalTitle" = "공유";
+
+/* Class = "UIBarButtonItem"; title = "                   "; ObjectID = "4vR-LA-cLe"; */
+"4vR-LA-cLe.title" = "                   ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8K6-oi-1ZS"; */
+"8K6-oi-1ZS.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C8T-H2-Oy1"; */
+"C8T-H2-Oy1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Tabs"; ObjectID = "H0L-KN-gUW"; */
+"H0L-KN-gUW.normalTitle" = "턥";
+
+/* Class = "UIButton"; normalTitle = "Copy URL"; ObjectID = "LNC-us-2ib"; */
+"LNC-us-2ib.normalTitle" = "공유";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "POy-9u-Eyr"; */
+"POy-9u-Eyr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RQ6-Ou-xkq"; */
+"RQ6-Ou-xkq.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Tabs"; ObjectID = "Udo-Wr-I1A"; */
+"Udo-Wr-I1A.title" = "탭";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jxe-cu-bKo"; */
+"jxe-cu-bKo.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Tabs"; ObjectID = "pEX-K0-asZ"; */
+"pEX-K0-asZ.normalTitle" = "탭";
+
+/* Class = "UIButton"; normalTitle = "Copy URL"; ObjectID = "sVB-rh-mA5"; */
+"sVB-rh-mA5.normalTitle" = "공유";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uAW-Px-IRI"; */
+"uAW-Px-IRI.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Tabs"; ObjectID = "xiw-LK-fC2"; */
+"xiw-LK-fC2.normalTitle" = "탭";
